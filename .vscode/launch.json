@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "leap",
+            "request": "launch",
+            "mainClass": "leap",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
             "name": "Math",
             "request": "launch",
             "mainClass": "Math",
