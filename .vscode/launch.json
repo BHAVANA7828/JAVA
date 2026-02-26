@@ -1,0 +1,239 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Math",
+            "request": "launch",
+            "mainClass": "Math",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Shadowed",
+            "request": "launch",
+            "mainClass": "Shadowed",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Argument",
+            "request": "launch",
+            "mainClass": "Argument",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Singleton",
+            "request": "launch",
+            "mainClass": "Singleton",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "StaticFactory1",
+            "request": "launch",
+            "mainClass": "StaticFactory1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Basic2",
+            "request": "launch",
+            "mainClass": "Basic2",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "StaticFactory",
+            "request": "launch",
+            "mainClass": "StaticFactory",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethod",
+            "request": "launch",
+            "mainClass": "StaticMethod",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Finalinstance",
+            "request": "launch",
+            "mainClass": "Finalinstance",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "ParentChild",
+            "request": "launch",
+            "mainClass": "ParentChild",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "SuperThis",
+            "request": "launch",
+            "mainClass": "SuperThis",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Getters",
+            "request": "launch",
+            "mainClass": "Getters",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Abstarct1",
+            "request": "launch",
+            "mainClass": "Abstarct1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Instance1",
+            "request": "launch",
+            "mainClass": "Instance1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Instance",
+            "request": "launch",
+            "mainClass": "Instance",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "SuperMethod",
+            "request": "launch",
+            "mainClass": "SuperMethod",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "SuperEx",
+            "request": "launch",
+            "mainClass": "SuperEx",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorBasic",
+            "request": "launch",
+            "mainClass": "ConstructorBasic",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance1",
+            "request": "launch",
+            "mainClass": "Inheritance1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "BasicInheritance",
+            "request": "launch",
+            "mainClass": "BasicInheritance",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Basic1",
+            "request": "launch",
+            "mainClass": "Basic1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Box1",
+            "request": "launch",
+            "mainClass": "Box1",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "student",
+            "request": "launch",
+            "mainClass": "student",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "MathUtils",
+            "request": "launch",
+            "mainClass": "MathUtils",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
