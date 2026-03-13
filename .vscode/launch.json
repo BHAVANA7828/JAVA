@@ -6,6 +6,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DynamicFibonacci",
+            "request": "launch",
+            "mainClass": "DynamicFibonacci",
+            "projectName": "JAVA_DSA_51dbdb02"
+        },
+        {
+            "type": "java",
+            "name": "Dynamic",
+            "request": "launch",
+            "mainClass": "Dynamic",
+            "projectName": "JAVA_DSA_51dbdb02"
+        },
+        {
+            "type": "java",
+            "name": "BSTree",
+            "request": "launch",
+            "mainClass": "BSTree",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrder",
+            "request": "launch",
+            "mainClass": "LevelOrder",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "BTree",
+            "request": "launch",
+            "mainClass": "BTree",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "QueueSingleLL",
+            "request": "launch",
+            "mainClass": "QueueSingleLL",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "StackEx",
+            "request": "launch",
+            "mainClass": "StackEx",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "CirculerLinkedList",
+            "request": "launch",
+            "mainClass": "CirculerLinkedList",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLinkedList",
+            "request": "launch",
+            "mainClass": "DoubleLinkedList",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Doublelinkedlist",
+            "request": "launch",
+            "mainClass": "Doublelinkedlist",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "DSABasic",
+            "request": "launch",
+            "mainClass": "DSABasic",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "DSASample",
+            "request": "launch",
+            "mainClass": "DSASample",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "HashmapExample",
+            "request": "launch",
+            "mainClass": "HashmapExample",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "Hash",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Dequeue",
+            "request": "launch",
+            "mainClass": "Dequeue",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Queue",
+            "request": "launch",
+            "mainClass": "Queue",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "Iterator",
+            "request": "launch",
+            "mainClass": "Iterator",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "JAVA_477e11af"
+        },
+        {
+            "type": "java",
             "name": "leap",
             "request": "launch",
             "mainClass": "leap",
